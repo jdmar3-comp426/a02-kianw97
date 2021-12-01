@@ -1,0 +1,23 @@
+{
+  "name": "a02-kianw97",
+  "version": "1.0.0",
+  "description": "[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-f059dc9a6f8d3a56e377f745f24479a46679e63a5d9fe6f495e02850cd0d8118.svg)](https://classroom.github.com/online_ide?assignment_repo_id=5958153&assignment_repo_type=AssignmentRepo)\r # a02 Like building a house",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://kianw97: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@github.com/jdmar3-comp426/a02-kianw97.git"
+  },
+  "author": "Kian Watkins",
+  "license": "GPL-3.0-only",
+  "bugs": {
+    "url": "https://github.com/jdmar3-comp426/a02-kianw97/issues"
+  },
+  "homepage": "https://github.com/jdmar3-comp426/a02-kianw97#readme",
+  "dependencies": {
+    "browser-sync": "^2.27.5",
+    "bulma": "^0.9.3"
+  }
+}
